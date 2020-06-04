@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aad97358-2c6a-4c8b-a45b-6457ac1ab40e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TestController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TestController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <element signature="e#40#66#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>query</find>
+      <find>口令</find>
+      <find>foreach</find>
+      <find>CategoryController</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database/migrations/2020_03_26_141748_create_devices_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_03_26_142216_create_categories_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_03_26_143458_create_browses_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_03_26_142154_create_images_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_03_26_144707_create_banners_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BaseController.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_05_20_141955_create_goods_imgs_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_05_20_142033_create_goods_detail_pics.php" />
+        <option value="$PROJECT_DIR$/app/Models/GoodsImg.php" />
+        <option value="$PROJECT_DIR$/app/Models/GoodsDetailPic.php" />
+        <option value="$PROJECT_DIR$/app/Models/Goods.php" />
+        <option value="$PROJECT_DIR$/app/Http/Resources/Goods/GoodsDetailResource.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/migrations/2020_03_26_141625_create_goods_table.php" />
+        <option value="$PROJECT_DIR$/app/Service/DataokeService.php" />
+        <option value="$PROJECT_DIR$/app/Models/Categories.php" />
+        <option value="$PROJECT_DIR$/app/Models/Category.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/HomeController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/CacheController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/CategoryController.php" />
+        <option value="$PROJECT_DIR$/storage/logs/laravel.log" />
+        <option value="$PROJECT_DIR$/routes/api.php" />
+        <option value="$PROJECT_DIR$/app/functions.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Api/GoodsController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/TestController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Service" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop-api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Volumes/Develop/docker/sites/html/shop-api/vendor/jaeger/querylist/tests/Dom/RulesTest.php" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad97358-2c6a-4c8b-a45b-6457ac1ab40e" name="Default" comment="" />
+      <created>1585232117807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585232117807</updated>
+      <workItem from="1585232119195" duration="7475000" />
+      <workItem from="1589289899376" duration="6426000" />
+      <workItem from="1589739125883" duration="42000" />
+      <workItem from="1589825026801" duration="85000" />
+      <workItem from="1589978178857" duration="12238000" />
+      <workItem from="1590676642231" duration="2563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28829000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32474965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24374177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/CacheController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="55" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="55" />
+          <folding>
+            <marker date="1590588075000" expanded="true" signature="48:175" ph="..." />
+            <marker date="1590588075000" expanded="true" signature="221:444" ph="{...}" />
+            <marker date="1590588075000" expanded="true" signature="256:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_03_26_142123_create_categories.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_03_26_142216_create_categories_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_03_26_141748_create_devices_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jaeger/querylist/src/QueryList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jaeger/querylist/tests/Dom/RulesTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="671" column="9" lean-forward="false" selection-start-line="671" selection-start-column="9" selection-end-line="671" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/DeviceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/TestController.php" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/SearchController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <marker date="1585234681000" expanded="false" signature="48:109" ph="..." />
+            <marker date="1585234681000" expanded="true" signature="152:163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_03_26_142154_create_images_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_03_26_144707_create_banners_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <marker date="1585234182000" expanded="false" signature="11:133" ph="..." />
+            <marker date="1585234182000" expanded="true" signature="177:955" ph="{...}" />
+            <marker date="1585234182000" expanded="true" signature="187:247" ph=" Run the migrations. ..." />
+            <marker date="1585234182000" expanded="true" signature="274:798" ph="{...}" />
+            <marker date="1585234182000" expanded="true" signature="304:790" ph="..." />
+            <marker date="1585234182000" expanded="true" signature="344:789" ph="..." />
+            <marker date="1585234182000" expanded="true" signature="807:871" ph=" Reverse the migrations. ..." />
+            <marker date="1585234182000" expanded="true" signature="900:953" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_03_26_143458_create_browses_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1585233829000" expanded="false" signature="11:133" ph="..." />
+            <marker date="1585233829000" expanded="true" signature="177:934" ph="{...}" />
+            <marker date="1585233829000" expanded="true" signature="187:247" ph=" Run the migrations. ..." />
+            <marker date="1585233829000" expanded="true" signature="274:777" ph="{...}" />
+            <marker date="1585233829000" expanded="true" signature="304:769" ph="..." />
+            <marker date="1585233829000" expanded="true" signature="344:768" ph="..." />
+            <marker date="1585233829000" expanded="true" signature="786:850" ph=" Reverse the migrations. ..." />
+            <marker date="1585233829000" expanded="true" signature="879:932" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="774" column="20" lean-forward="false" selection-start-line="774" selection-start-column="20" selection-end-line="774" selection-end-column="20" />
+          <folding>
+            <marker date="1585141211000" expanded="false" signature="52:484" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="489:590" ph=" @property-read HigherOrderBuilderProxy $orWhere ..." />
+            <marker date="1585141211000" expanded="true" signature="606:40346" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="686:786" ph=" The base query builder instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="819:912" ph=" The model being queried. ..." />
+            <marker date="1585141211000" expanded="true" signature="945:1030" ph=" The relationships that should be eager loaded. ..." />
+            <marker date="1585141211000" expanded="true" signature="1072:1157" ph=" All of the globally registered builder macros. ..." />
+            <marker date="1585141211000" expanded="true" signature="1203:1287" ph=" All of the locally registered builder macros. ..." />
+            <marker date="1585141211000" expanded="true" signature="1331:1419" ph=" A replacement for the typical delete function. ..." />
+            <marker date="1585141211000" expanded="true" signature="1455:1549" ph=" The methods that should be returned from query builder. ..." />
+            <marker date="1585141211000" expanded="true" signature="1579:1786" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="1797:1858" ph=" Applied global scopes. ..." />
+            <marker date="1585141211000" expanded="true" signature="1897:1958" ph=" Removed global scopes. ..." />
+            <marker date="1585141211000" expanded="true" signature="2004:2148" ph=" Create a new Eloquent query builder instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="2203:2246" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="2255:2413" ph=" Create and return an un-saved model instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="2464:2529" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="2538:2711" ph=" Register a new global scope. ..." />
+            <marker date="1585141211000" expanded="true" signature="2770:2943" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="2869:2913" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="2952:3093" ph=" Remove a registered global scope. ..." />
+            <marker date="1585141211000" expanded="true" signature="3142:3343" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="3183:3232" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="3352:3475" ph=" Remove all or passed registered global scopes. ..." />
+            <marker date="1585141211000" expanded="true" signature="3539:3764" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="3580:3638" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="3678:3734" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="3773:3878" ph=" Get an array of global scopes that were removed from the query. ..." />
+            <marker date="1585141211000" expanded="true" signature="3916:3965" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="3974:4093" ph=" Add a where clause on the primary key to the query. ..." />
+            <marker date="1585141211000" expanded="true" signature="4129:4389" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="4192:4305" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="4398:4517" ph=" Add a where clause on the primary key to the query. ..." />
+            <marker date="1585141211000" expanded="true" signature="4556:4820" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="4619:4735" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="4829:5048" ph=" Add a basic where clause to the query. ..." />
+            <marker date="1585141211000" expanded="true" signature="5136:5447" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="5184:5347" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="5355:5417" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="5456:5741" ph=" Add a basic where clause to the query, and return the first result. ..." />
+            <marker date="1585141211000" expanded="true" signature="5834:5922" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="5931:6157" ph=" Add an &quot;or where&quot; clause to the query. ..." />
+            <marker date="1585141211000" expanded="true" signature="6229:6438" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="6304:6366" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="6447:6574" ph=" Add an &quot;order by&quot; clause for a timestamp to the query. ..." />
+            <marker date="1585141211000" expanded="true" signature="6619:6810" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="6657:6740" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="6819:6946" ph=" Add an &quot;order by&quot; clause for a timestamp to the query. ..." />
+            <marker date="1585141211000" expanded="true" signature="6991:7182" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="7029:7112" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="7191:7345" ph=" Create a collection of models from plain arrays. ..." />
+            <marker date="1585141211000" expanded="true" signature="7389:7608" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="7484:7600" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="7494:7599" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="7528:7590" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="7617:7803" ph=" Create a collection of models from a raw query. ..." />
+            <marker date="1585141211000" expanded="true" signature="7859:7982" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="7896:7974" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="7991:8214" ph=" Find a model by its primary key. ..." />
+            <marker date="1585141211000" expanded="true" signature="8264:8449" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="8327:8387" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="8458:8676" ph=" Find multiple models by their primary keys. ..." />
+            <marker date="1585141211000" expanded="true" signature="8731:8952" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="8832:8891" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="8961:9276" ph=" Find a model by its primary key or throw an exception. ..." />
+            <marker date="1585141211000" expanded="true" signature="9332:9714" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="9414:9532" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="9477:9522" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="9563:9600" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="9656:9706" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="9723:9922" ph=" Find a model by its primary key or return fresh model instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="9977:10131" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="10045:10081" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="10140:10346" ph=" Get the first record matching the attributes or instantiate it. ..." />
+            <marker date="1585141211000" expanded="true" signature="10418:10607" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="10497:10536" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="10616:10817" ph=" Get the first record matching the attributes or create it. ..." />
+            <marker date="1585141211000" expanded="true" signature="10892:11151" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="10971:11010" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="11032:11143" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="11102:11142" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="11160:11378" ph=" Create or update a record matching the attributes, and fill it with values. ..." />
+            <marker date="1585141211000" expanded="true" signature="11454:11612" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="11480:11604" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="11548:11603" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="11621:11871" ph=" Execute the query and get the first result or throw an exception. ..." />
+            <marker date="1585141211000" expanded="true" signature="11923:12110" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="11987:12023" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="12119:12346" ph=" Execute the query and get the first result or call a callback. ..." />
+            <marker date="1585141211000" expanded="true" signature="12420:12675" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="12469:12543" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="12603:12639" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="12684:12818" ph=" Get a single column's value from the first result of a query. ..." />
+            <marker date="1585141211000" expanded="true" signature="12855:12965" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="12910:12958" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="12974:13140" ph=" Execute the query as a &quot;select&quot; statement. ..." />
+            <marker date="1585141211000" expanded="true" signature="13184:13687" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="13548:13618" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="13696:13863" ph=" Get the hydrated models without eager loading. ..." />
+            <marker date="1585141211000" expanded="true" signature="13913:14028" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="13957:14013" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="14037:14153" ph=" Eager load the relationships for the models. ..." />
+            <marker date="1585141211000" expanded="true" signature="14209:14735" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="14277:14703" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="14598:14693" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="14744:14932" ph=" Eagerly load the relationship on a set of models. ..." />
+            <marker date="1585141211000" expanded="true" signature="15019:15811" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="15700:15803" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="15820:15988" ph=" Get the relation instance for the given relation name. ..." />
+            <marker date="1585141211000" expanded="true" signature="16029:17029" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="16330:16594" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="16355:16593" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="16373:16452" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="16489:16583" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="16936:16995" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="17038:17176" ph=" Get the deeply nested relations for a given top-level relation. ..." />
+            <marker date="1585141211000" expanded="true" signature="17233:17763" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="17572:17731" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="17630:17721" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="17772:17915" ph=" Determine if the relationship is nested. ..." />
+            <marker date="1585141211000" expanded="true" signature="17972:18067" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="18076:18189" ph=" Get a lazy collection for the given query. ..." />
+            <marker date="1585141211000" expanded="true" signature="18220:18394" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="18285:18386" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="18305:18385" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="18403:18514" ph=" Add a generic &quot;order by&quot; clause if the query doesn't already have one. ..." />
+            <marker date="1585141211000" expanded="true" signature="18556:18729" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="18641:18722" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="18738:18916" ph=" Get an array with the values of a given column. ..." />
+            <marker date="1585141211000" expanded="true" signature="18966:19643" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="19441:19479" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="19511:19635" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="19544:19634" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="19652:19944" ph=" Paginate the given query. ..." />
+            <marker date="1585141211000" expanded="true" signature="20044:20583" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="20437:20575" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="20473:20574" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="20592:20849" ph=" Paginate the given query into a simple paginator. ..." />
+            <marker date="1585141211000" expanded="true" signature="20955:21600" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="21450:21592" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="21490:21591" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="21609:21762" ph=" Save a new model and return the instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="21815:21950" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="21841:21942" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="21901:21941" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="21959:22135" ph=" Save a new model and return the instance. Allow mass-assignment. ..." />
+            <marker date="1585141211000" expanded="true" signature="22188:22350" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="22234:22342" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="22265:22341" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="22359:22461" ph=" Update a record in the database. ..." />
+            <marker date="1585141211000" expanded="true" signature="22505:22593" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="22602:22781" ph=" Increment a column's value by a given amount. ..." />
+            <marker date="1585141211000" expanded="true" signature="22854:22984" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="22903:22976" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="22993:23172" ph=" Decrement a column's value by a given amount. ..." />
+            <marker date="1585141211000" expanded="true" signature="23245:23375" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="23294:23367" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="23384:23506" ph=" Add the &quot;updated at&quot; column to an array of values. ..." />
+            <marker date="1585141211000" expanded="true" signature="23565:24141" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="23678:23715" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="23803:23895" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="24150:24226" ph=" Delete a record from the database. ..." />
+            <marker date="1585141211000" expanded="true" signature="24257:24419" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="24301:24369" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="24428:24600" ph=" Run the default delete function on the builder. ..." />
+            <marker date="1585141211000" expanded="true" signature="24636:24687" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="24696:24827" ph=" Register a replacement for the default delete function. ..." />
+            <marker date="1585141211000" expanded="true" signature="24877:24926" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="24935:25055" ph=" Call the given local model scopes. ..." />
+            <marker date="1585141211000" expanded="true" signature="25093:26016" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="25190:25983" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="25486:25558" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="25866:25972" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="26025:26132" ph=" Apply the scopes to the Eloquent builder instance and return it. ..." />
+            <marker date="1585141211000" expanded="true" signature="26168:27352" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="26205:26240" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="26334:27319" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="26392:26431" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="26466:27308" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="26505:27307" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="26831:26886" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="27212:27293" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="27361:27523" ph=" Apply the given scope on the current builder instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="27593:28278" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="28164:28246" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="28287:28489" ph=" Nest where conditions by slicing them at the given where count. ..." />
+            <marker date="1585141211000" expanded="true" signature="28580:29134" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="28932:29009" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="29052:29126" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="29143:29367" ph=" Slice where conditions at the given offset and add them to the query as a nested condition. ..." />
+            <marker date="1585141211000" expanded="true" signature="29450:30038" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="29809:29943" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="29866:29932" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="29951:30031" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="30047:30205" ph=" Create a where array with nested where conditions. ..." />
+            <marker date="1585141211000" expanded="true" signature="30279:30479" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="30488:30613" ph=" Set the relationships that should be eager loaded. ..." />
+            <marker date="1585141211000" expanded="true" signature="30652:30860" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="30869:31000" ph=" Prevent the specified relations from being eager loaded. ..." />
+            <marker date="1585141211000" expanded="true" signature="31042:31226" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="31091:31195" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="31120:31194" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="31235:31397" ph=" Create a new instance of the model being queried. ..." />
+            <marker date="1585141211000" expanded="true" signature="31454:31600" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="31530:31592" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="31609:31727" ph=" Parse a list of relations into individuals. ..." />
+            <marker date="1585141211000" expanded="true" signature="31789:32852" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="31875:32819" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="32129:32444" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="32337:32429" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="32364:32428" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="32861:32997" ph=" Create a constraint to select the given columns for the relation. ..." />
+            <marker date="1585141211000" expanded="true" signature="33056:33225" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="33079:33217" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="33141:33216" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="33234:33381" ph=" Parse the nested relationships in a relation. ..." />
+            <marker date="1585141211000" expanded="true" signature="33438:34037" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="33777:34004" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="33884:33994" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="33939:33979" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="34046:34159" ph=" Get the underlying query builder instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="34192:34233" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="34242:34384" ph=" Set the underlying query builder instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="34423:34489" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="34498:34603" ph=" Get a base query builder instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="34634:34695" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="34704:34789" ph=" Get the relationships being eagerly loaded. ..." />
+            <marker date="1585141211000" expanded="true" signature="34827:34872" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="34881:34999" ph=" Set the relationships being eagerly loaded. ..." />
+            <marker date="1585141211000" expanded="true" signature="35053:35127" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="35136:35217" ph=" Get the default key name of the table. ..." />
+            <marker date="1585141211000" expanded="true" signature="35259:35319" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="35328:35444" ph=" Get the model instance being queried. ..." />
+            <marker date="1585141211000" expanded="true" signature="35477:35518" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="35527:35677" ph=" Set a model instance for the model being queried. ..." />
+            <marker date="1585141211000" expanded="true" signature="35722:35837" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="35846:35971" ph=" Qualify the given column name by the model's table. ..." />
+            <marker date="1585141211000" expanded="true" signature="36016:36081" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="36090:36192" ph=" Get the given macro by name. ..." />
+            <marker date="1585141211000" expanded="true" signature="36230:36294" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="36303:36405" ph=" Checks if a macro is registered. ..." />
+            <marker date="1585141211000" expanded="true" signature="36443:36504" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="36513:36622" ph=" Get the given global macro by name. ..." />
+            <marker date="1585141211000" expanded="true" signature="36673:36734" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="36743:36852" ph=" Checks if a global macro is registered. ..." />
+            <marker date="1585141211000" expanded="true" signature="36903:36961" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="36970:37108" ph=" Dynamically access builder proxies. ..." />
+            <marker date="1585141211000" expanded="true" signature="37142:37359" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="37182:37252" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="37368:37524" ph=" Dynamically handle calls into the query instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="37575:38588" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="37616:37711" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="37753:37874" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="37923:38204" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="37986:38113" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="38284:38367" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="38419:38491" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="38597:38799" ph=" Dynamically handle calls into the query instance. ..." />
+            <marker date="1585141211000" expanded="true" signature="38863:39512" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="38904:38996" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="39033:39124" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="39175:39242" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="39303:39428" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="39521:39664" ph=" Register the given mixin with the builder. ..." />
+            <marker date="1585141211000" expanded="true" signature="39728:40148" ph="{...}" />
+            <marker date="1585141211000" expanded="true" signature="39796:39886" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="39929:40141" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="40000:40131" ph="..." />
+            <marker date="1585141211000" expanded="true" signature="40157:40257" ph=" Force a clone of the underlying query builder when cloning. ..." />
+            <marker date="1585141211000" expanded="true" signature="40289:40344" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/GoodsImg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <marker date="1589987216000" expanded="true" signature="99:135" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/GoodsDetailPic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <marker date="1589987216000" expanded="true" signature="105:141" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Resources/Goods/GoodsDetailResource.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1589988581000" expanded="true" signature="140:502" ph="{...}" />
+            <marker date="1589988581000" expanded="true" signature="150:279" ph=" Transform the resource into an array. ..." />
+            <marker date="1589988581000" expanded="true" signature="319:500" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <marker date="1589988476000" expanded="true" signature="96:373" ph="{...}" />
+            <marker date="1589988476000" expanded="true" signature="189:265" ph="{...}" />
+            <marker date="1589988476000" expanded="true" signature="294:369" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_05_20_142033_create_goods_detail_pics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <marker date="1589984623000" expanded="false" signature="11:133" ph="..." />
+            <marker date="1589984623000" expanded="true" signature="180:812" ph="{...}" />
+            <marker date="1589984623000" expanded="true" signature="190:250" ph=" Run the migrations. ..." />
+            <marker date="1589984623000" expanded="true" signature="277:645" ph="{...}" />
+            <marker date="1589984623000" expanded="true" signature="307:637" ph="..." />
+            <marker date="1589984623000" expanded="true" signature="357:636" ph="..." />
+            <marker date="1589984623000" expanded="true" signature="654:718" ph=" Reverse the migrations. ..." />
+            <marker date="1589984623000" expanded="true" signature="747:810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_05_20_141955_create_goods_imgs_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1589984623000" expanded="false" signature="11:133" ph="..." />
+            <marker date="1589984623000" expanded="true" signature="179:797" ph="{...}" />
+            <marker date="1589984623000" expanded="true" signature="189:249" ph=" Run the migrations. ..." />
+            <marker date="1589984623000" expanded="true" signature="276:637" ph="{...}" />
+            <marker date="1589984623000" expanded="true" signature="306:629" ph="..." />
+            <marker date="1589984623000" expanded="true" signature="349:628" ph="..." />
+            <marker date="1589984623000" expanded="true" signature="646:710" ph=" Reverse the migrations. ..." />
+            <marker date="1589984623000" expanded="true" signature="739:795" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2020_03_26_141625_create_goods_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="34" column="57" lean-forward="true" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+          <folding>
+            <marker date="1589989726000" expanded="false" signature="11:133" ph="..." />
+            <marker date="1589989726000" expanded="true" signature="175:2065" ph="{...}" />
+            <marker date="1589989726000" expanded="true" signature="185:245" ph=" Run the migrations. ..." />
+            <marker date="1589989726000" expanded="true" signature="272:1910" ph="{...}" />
+            <marker date="1589989726000" expanded="true" signature="302:1902" ph="..." />
+            <marker date="1589989726000" expanded="true" signature="340:1901" ph="..." />
+            <marker date="1589989726000" expanded="true" signature="1919:1983" ph=" Reverse the migrations. ..." />
+            <marker date="1589989726000" expanded="true" signature="2012:2063" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Categories.php" />
+    <entry file="file://$PROJECT_DIR$/app/Service/DataokeService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+          <folding>
+            <marker date="1590584331000" expanded="true" signature="107:1113" ph="{...}" />
+            <marker date="1590584331000" expanded="true" signature="206:300" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="322:1020" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="379:954" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="413:491" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="527:607" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="640:717" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="748:823" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="858:940" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="1154:1372" ph="{...}" />
+            <marker date="1590584331000" expanded="true" signature="1255:1286" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="1415:1705" ph="{...}" />
+            <marker date="1590584331000" expanded="true" signature="1515:1611" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="1739:1930" ph="{...}" />
+            <marker date="1590584331000" expanded="true" signature="1984:2270" ph="{...}" />
+            <marker date="1590584331000" expanded="true" signature="2091:2195" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="2320:2941" ph="{...}" />
+            <marker date="1590584331000" expanded="true" signature="2472:2550" ph="..." />
+            <marker date="1590584331000" expanded="true" signature="2991:3251" ph="{...}" />
+            <marker date="1590584331000" expanded="true" signature="3076:3127" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <marker date="1590585905000" expanded="true" signature="99:245" ph="{...}" />
+            <marker date="1590585905000" expanded="true" signature="166:243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="80" lean-forward="false" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+          <folding>
+            <marker date="1590587702000" expanded="true" signature="48:175" ph="..." />
+            <marker date="1590587702000" expanded="true" signature="220:443" ph="{...}" />
+            <marker date="1590587702000" expanded="true" signature="251:439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/CacheController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1590588075000" expanded="true" signature="48:175" ph="..." />
+            <marker date="1590588075000" expanded="true" signature="221:444" ph="{...}" />
+            <marker date="1590588075000" expanded="true" signature="256:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="101" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <marker date="1590677395000" expanded="true" signature="48:175" ph="..." />
+            <marker date="1590677395000" expanded="true" signature="224:452" ph="{...}" />
+            <marker date="1590677395000" expanded="true" signature="254:267" ph="{...}" />
+            <marker date="1590677395000" expanded="true" signature="302:448" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <marker date="1590677659000" expanded="true" signature="39:417" ph="..." />
+            <marker date="1590677659000" expanded="true" signature="592:1015" ph="..." />
+            <marker date="1590677659000" expanded="true" signature="663:1014" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding>
+            <marker date="1590678600000" expanded="true" signature="0:1749" ph="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="117:163" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="202:524" ph="{&quot;php&quot;: &quot;^7.2&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="545:732" ph="{&quot;facade/ignition&quot;: &quot;^1.4&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="748:859" ph="{&quot;optimize-autoloader&quot;: true...}" />
+            <marker date="1590678600000" expanded="true" signature="874:944" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="895:938" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="962:1184" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="981:1020" ph="{&quot;App\&quot;: &quot;app/&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="1042:1116" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="1135:1178" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="1206:1274" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="1225:1268" ph="{&quot;Tests\&quot;: &quot;tests/&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="1350:1747" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="1382:1517" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="1556:1646" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="1683:1741" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1590678600000" expanded="true" signature="50:154" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Api/GoodsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <marker date="1590678767000" expanded="true" signature="48:240" ph="..." />
+            <marker date="1590678767000" expanded="true" signature="286:1582" ph="{...}" />
+            <marker date="1590678767000" expanded="true" signature="333:780" ph="{...}" />
+            <marker date="1590678767000" expanded="true" signature="513:563" ph="..." />
+            <marker date="1590678767000" expanded="true" signature="591:647" ph="..." />
+            <marker date="1590678767000" expanded="true" signature="811:1016" ph="{...}" />
+            <marker date="1590678767000" expanded="true" signature="1062:1305" ph="{...}" />
+            <marker date="1590678767000" expanded="true" signature="1352:1578" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
