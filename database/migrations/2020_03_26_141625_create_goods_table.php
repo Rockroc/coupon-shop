@@ -34,6 +34,7 @@ class CreateGoodsTable extends Migration
             $table->decimal('actual_price',8,2)->comment('券后格');
             $table->string('coupon_id')->comment('优惠券ID');
             $table->unsignedMediumInteger('sales')->default(0)->comment('销量');
+            $table->string('tkl')->nullable()->comment('淘口令');
 
             $table->unsignedTinyInteger('is_reommend')->default(0)->comment('是否推荐');
 

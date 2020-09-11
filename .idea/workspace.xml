@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aad97358-2c6a-4c8b-a45b-6457ac1ab40e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Api/GoodsController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Api/GoodsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/TestController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/TestController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Resources/Goods/GoodsDetailResource.php" afterPath="$PROJECT_DIR$/app/Http/Resources/Goods/GoodsDetailResource.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Service/DataokeService.php" afterPath="$PROJECT_DIR$/app/Service/DataokeService.php" />
-    </list>
+    <list default="true" id="aad97358-2c6a-4c8b-a45b-6457ac1ab40e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -375,16 +369,16 @@
       <workItem from="1589825026801" duration="85000" />
       <workItem from="1589978178857" duration="12238000" />
       <workItem from="1590676642231" duration="5732000" />
-      <workItem from="1599830877250" duration="5554000" />
+      <workItem from="1599830877250" duration="6027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37552000" />
+    <option name="totallyTimeSpent" value="38025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -395,7 +389,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24374177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24374177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -963,13 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="58" column="43" lean-forward="false" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1060,6 +1047,32 @@
             <marker date="1599845529000" expanded="true" signature="957:1164" ph="{...}" />
             <marker date="1599845529000" expanded="true" signature="1210:1453" ph="{...}" />
             <marker date="1599845529000" expanded="true" signature="1500:1726" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <marker date="1590678600000" expanded="true" signature="0:1749" ph="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="117:163" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="202:524" ph="{&quot;php&quot;: &quot;^7.2&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="545:732" ph="{&quot;facade/ignition&quot;: &quot;^1.4&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="748:859" ph="{&quot;optimize-autoloader&quot;: true...}" />
+            <marker date="1590678600000" expanded="true" signature="874:944" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="895:938" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="962:1184" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="981:1020" ph="{&quot;App\&quot;: &quot;app/&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="1042:1116" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="1135:1178" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="1206:1274" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="1225:1268" ph="{&quot;Tests\&quot;: &quot;tests/&quot;...}" />
+            <marker date="1590678600000" expanded="true" signature="1350:1747" ph="{...}" />
+            <marker date="1590678600000" expanded="true" signature="1382:1517" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="1556:1646" ph="[...]" />
+            <marker date="1590678600000" expanded="true" signature="1683:1741" ph="[...]" />
           </folding>
         </state>
       </provider>
