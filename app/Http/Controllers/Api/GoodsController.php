@@ -18,6 +18,7 @@ class GoodsController extends BaseController
 
         $cid = $params['cid'] ?? 0;
         $subcid = $params['subcid'] ?? 0;
+        $keyword = $params['keyword'] ?? '';
 
         $builder = Goods::query();
 
@@ -29,6 +30,10 @@ class GoodsController extends BaseController
             $builder->where('subcid',$subcid);
         }
 
+        if($keyword != ''){
+            $builder->where('title','like','%'.$keyword.'%');
+        }
+
         $goods = $builder->offset(get_offset(10))->take(10)->get();
 
         return $this->normalResponse(compact('goods'));
@@ -37,8 +42,10 @@ class GoodsController extends BaseController
     public function show($id)
     {
         $goods = Goods::query()->with('imgs','pics')->find($id);
-//        dd($goods);
+
         $goods = new GoodsDetailResource($goods);
+//        dd($goods);
+
         return $this->normalResponse(compact('goods'));
     }
 

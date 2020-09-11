@@ -16,7 +16,7 @@ class GoodsDetailResource extends JsonResource
     {
         $data = parent::toArray($request);
 
-        $data['imgs'] = $this->imgs->pluck('img');
+        $data['imgs'] = $this->imgs->pluck('img')->toArray();
         $data['pics'] = $this->pics->pluck('pic');
 
         return $data;

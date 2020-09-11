@@ -16,6 +16,24 @@ class TestController extends Controller
 {
     public function index()
     {
+//
+//        $goods = Goods::query()->whereNull('tkl')->get();
+//
+//        $dataoke = new DataokeService();
+//
+//        $text = 'test';
+//        $pid = 'mm_26887704_1642950055_110356700272';
+//        foreach($goods as $item){
+//            $url = 'https://uland.taobao.com/coupon/edetail?activityId='.$item->coupon_id.'&itemId='.$item->tb_goods_id.'&pid='.$pid;
+//
+//            $tkl = $dataoke->makeTkl($text,$url);
+//            $item->update([
+//               'tkl' => $tkl
+//            ]);
+//        }
+//        die('test');
+
+
 //        $url = 'https://uland.taobao.com/quan/detail?sellerId=2181576422&activityId=c5051b65a56a49aabef7481fc89663a8';
 //
 //        $param = parse_url($url)['query'];
@@ -46,12 +64,12 @@ class TestController extends Controller
 //        }
 
 
-        $page = 5;
+        $page = 7;
 
         $dataoke = new DataokeService();
         $rows = $dataoke->getGoodsList($page,null,0);
 
-
+//        dd($rows);
         foreach($rows as $row){
 
             //请求详情页
@@ -91,14 +109,19 @@ class TestController extends Controller
                 ]);
             }
 
-            $pics = explode(',',$record['detailPics']);
 
-            foreach($pics as $pic){
-                GoodsDetailPic::query()->forceCreate([
-                    'goods_id' => $record['id'],
-                    'pic' => $pic
-                ]);
+            $pics = json_decode($record['detailPics']);
+
+            if(is_array($pics)){
+                foreach($pics as $pic){
+
+                    GoodsDetailPic::query()->forceCreate([
+                        'goods_id' => $record['id'],
+                        'pic' => $pic->img
+                    ]);
+                }
             }
+
         }
 
 

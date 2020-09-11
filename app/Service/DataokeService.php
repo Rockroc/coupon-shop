@@ -11,7 +11,7 @@ class DataokeService
 
         $params = [
             "pageId"=>$page,
-            "pageSize"=>10,
+            "pageSize"=>50,
             "sort" => $sort
         ];
 
@@ -83,19 +83,19 @@ class DataokeService
         return $data['data'];
     }
 
-    public function makeTkl($goodsId,$couponId,$pid)
+    public function makeTkl($text,$url)
     {
-        $uri = 'https://openapi.dataoke.com/api/tb-service/get-privilege-link';
+        $uri = 'https://openapi.dataoke.com/api/tb-service/creat-taokouling';
 
         $params = [
-            "goodsId"=>$goodsId,
-            "couponId" => $couponId,
-            "pid" =>$pid
+            "text"=>$text,
+            "url" => $url,
         ];
 
+//        dd($p);
         $data = $this->request($uri,$params);
 
-        dd($data);
+        return $data['data']['model'];
     }
 
 
@@ -106,7 +106,7 @@ class DataokeService
         //默认必传参数
         $data = [
             'appKey' => $appKey,
-            'version' => 'v1.2.2',
+            'version' => 'v1.3.0',
 
         ];
 
