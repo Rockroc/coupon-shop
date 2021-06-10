@@ -11,11 +11,50 @@ use App\Service\DataokeService;
 use GuzzleHttp\Client;
 use Illuminate\Http\Request;
 use QL\QueryList;
-
+use ETaobao\Factory;
 class TestController extends Controller
 {
     public function index()
     {
+
+
+        $config = [
+            'appkey' => '31278286',
+            'secretKey' => '903850883679fac986e5051f343b6335',
+            'format' => 'json',
+            'session' => '6101c02c471567e2b6f2ba7a494e850381e3c5640ad462b676969015',//授权接口（sc类的接口）需要带上
+            'sandbox' => false,
+        ];
+
+        $app = Factory::Tbk($config);
+
+        //获取分享标识
+//        $param = [
+//            'relation_app' => 'common',
+//            'code_type' => '3',
+//        ];
+//        $res = $app->sc->getInviteCode($param);
+//        dd($res);
+
+
+        //获取授权链接
+//        $param = [
+//            'inviter_code' => '6ZEMWJ',
+//            'info_type' => '1',
+//        ];
+//        $res = $app->sc->savePublisherInfo($param);
+
+        $param = [
+            'inviter_code' => '6ZEMWJ',
+            'info_type' => '1',
+        ];
+        $res = $app->rebate->getAuth();
+
+        dd($res);
+        print_r($res);
+
+        die('ffe');
+
 //
 //        $goods = Goods::query()->whereNull('tkl')->get();
 //
